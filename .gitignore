@@ -1,0 +1,6 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+clinical_data.db
+data/*.jsonl
