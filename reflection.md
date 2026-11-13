@@ -1,0 +1,5 @@
+For this assignment, I developed a RESTful API using Python and Flask to manage clinical records. The application uses SQLite and a JSON Lines file to store patient information. I also used SQLAlchemy to manage the database and Pydantic to validate the information entered into the system.
+
+One thing I learned from this assignment was how an API can store and retrieve information using different storage methods. I also gained a better understanding of how POST requests create records and GET requests retrieve saved information. During testing, I used the terminal to send requests and verify that the records were saved correctly.
+
+One challenge was making sure the application worked correctly with the database and JSON Lines file. Testing each part helped me identify problems and confirm that the application was working.
